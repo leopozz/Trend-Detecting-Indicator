@@ -14,10 +14,10 @@ Regarding the content of our project, our extension that you can download allows
 
 •	Failure Swing (stop hunting) (strategy):
 
-#Instructions, How to run our code:
+# Instructions, How to run our code:
 
-#Error handling: 
+# Error handling: 
 
-#Group participants:
+# Group participants:
 Fabio Baas, Federico Luca Emanuele Campi, Leonardo Pozzi, Mihnea Serbanoiu and Rémy Zuchuat
 
