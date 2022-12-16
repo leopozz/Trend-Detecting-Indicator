@@ -1,1 +1,1 @@
-# sensational-stocks-indicator
+# Sensational-Stocks-Indicator
