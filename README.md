@@ -7,6 +7,17 @@ Before you can take advantage of our stock market indicators, we would like to t
 Regarding the content of our project, our extension that you can download allows you access to 3 indicators and a strategy.
 
 •	MultiAverages MultiTimeframe (indicator): 
+
 •	Volume Supply and Demand Zones (indicator): 
+
 •	RSI MultiTimeframe (indicator):
+
 •	Failure Swing (stop hunting) (strategy):
+
+#Instructions, How to run our code:
+
+#Error handling: 
+
+#Group participants:
+Fabio Baas, Federico Luca Emanuele Campi, Leonardo Pozzi, Mihnea Serbanoiu and Rémy Zuchuat
+
