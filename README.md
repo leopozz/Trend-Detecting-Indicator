@@ -7,7 +7,7 @@ First, we focused on a frequent problem of traders and tried to find possible he
 
 Each team member worked on a different task, between programming, code commentary, and implementation. Once the code was complete, we went through several rounds of review and debugging to ensure the indicator worked and minimized programming errors. Next, we focused on implementing the extension in TradingView. Once our extension is added to the site, you can choose any chart inherent in stocks, forex, and crypto, apply our indicators to simplify your strategy and get ready to make money. Have fun!
 
-# Instructions, How to run our code:
+# Instructions-How to run our code:
 Either from the Website: https://www.tradingview.com/chart/ or from the Desktop app, downloadable from: https://www.tradingview.com/desktop/
 1. Click on the "Pine Editor" tab at the bottom of your TradingView chart ![Pine Editor on TradingView homescreen](https://user-images.githubusercontent.com/119878846/208310345-b82edf52-ad16-4ced-8206-4ed9fe38f8b5.png)
 2. Select all code already in the editor and cancel it
