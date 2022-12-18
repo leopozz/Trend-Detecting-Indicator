@@ -29,6 +29,8 @@ and use the User Manual
 # Error handling: 
 Please make sure that you:
 
+• (if you're using the Desktop App) have an updated version of TradingView
+
 • deleted the pre-set code in the editor before pasting our code
 
 • copied the entire code
