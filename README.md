@@ -19,16 +19,11 @@ Either from the Website: https://www.tradingview.com/chart/ or from the Desktop 
 For further information on how to use the Pine Editor, please visit: https://www.tradingview.com/pine-script-docs/en/v4/Quickstart_guide.html,
 and use the User Manual
 
-# Indicators and strategies:
-Regarding the content of our project, our extension that you can download allows you access to 3 indicators and a strategy.
+# Code content and structure:
+As you can see, we divided the code into two different modules. The first module defines the three "chubby" averages (AVG1.1, AVG1.2, AVG1.3). Furthermore, in the first part, the three averages have a time frame that does not correspond to what the user decides on the chart (this will be done later in the second module), as the indicator aims to provide more confirmation signals to the user by including confirmations from other timeframes.
+On the other hand, module 2 defines the three "thin" averages (AVG2.1, AVG2.2, AVG2.3). These averages are based on the timeframe selected by the user on the chart. Depending on the timeframe chosen by the user, the moving averages will adjust accordingly.
 
-•	MultiAverages MultiTimeframe (indicator): 
-
-•	Volume Supply and Demand Zones (indicator): 
-
-•	RSI MultiTimeframe (indicator):
-
-•	Failure Swing (stop hunting) (strategy):
+Focusing on the lines, the red line was called AVG1.1, the green AVG1.2, the blue AVG1.3, the orange AVG2.1, the lime AVG2.2, and the aqua AVG2.3. As can be seen from the code on line 94, whenever AVG1.2 crosses AVG1.3, the graph unfolds a yellow circle, which confirms a positive trend. This occurs because we have defined the length of the moving averages, and AVG1.2 has a length of 50, while AVG1.3 of 200. 
 
 # Error handling: 
 Please make sure that you:
