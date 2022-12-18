@@ -27,6 +27,11 @@ For further information on how to use the Pine Editor, please visit: https://www
 and use the User Manual
 
 # Error handling: 
+Please make sure that you:
+• deleted the pre-set code in the editor before pasting our code
+• copied the entire code
+• clicked on "Add to chart" to view the strategy
+If errors still persist, try deleting the entire script and starting anew the "Instructions, How to run our code" steps
 
 # Group participants:
 Fabio Baas, Federico Luca Emanuele Campi, Leonardo Pozzi, Mihnea Serbanoiu and Rémy Zuchuat
