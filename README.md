@@ -23,6 +23,9 @@ Either from the Website: https://www.tradingview.com/chart/ or from the Desktop 
 5. The indicator will appear in a separate Pane under the chart
 6. Make money!
 
+For further information on how to use the Pine Editor, please visit: https://www.tradingview.com/pine-script-docs/en/v4/Quickstart_guide.html,
+and use the User Manual
+
 # Error handling: 
 
 # Group participants:
