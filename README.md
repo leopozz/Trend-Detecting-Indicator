@@ -15,6 +15,13 @@ Regarding the content of our project, our extension that you can download allows
 •	Failure Swing (stop hunting) (strategy):
 
 # Instructions, How to run our code:
+Either from the Website: https://www.tradingview.com/chart/ or from the Desktop app, downloadable from: https://www.tradingview.com/desktop/
+1. Click on the "Pine Editor" tab at the bottom of your TradingView chart ![Pine Editor on TradingView homescreen](https://user-images.githubusercontent.com/119878846/208310345-b82edf52-ad16-4ced-8206-4ed9fe38f8b5.png)
+2. Select all code already in the editor and cancel it
+3. Copy our code and paste it into the editor
+4. Click "Save", choose a name and then click "Add to Chart"
+5. The indicator will appear in a separate Pane under the chart
+6. Make money!
 
 # Error handling: 
 
