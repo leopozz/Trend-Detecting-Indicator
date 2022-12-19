@@ -20,7 +20,7 @@ For first time users:
 
 If you already have scripts:
 1. Click on "Open" as in the picture: ![TradingView Pine Editor Open](https://user-images.githubusercontent.com/119878846/208376735-66f19cd8-7cae-4b72-a6a3-cd18bd20aa57.png)
-2. Click on "Indicator", which can be found under "Create New" ![TradingView Create New Indicator](https://user-images.githubusercontent.com/119878846/208376927-19e0136c-ef78-4fd8-99e3-208327c196d0.png)
+2. Click on "Indicator", which can be found under "Create New" ![TradingView Create New Indicator](<img src="https://user-images.githubusercontent.com/119878846/208376927-19e0136c-ef78-4fd8-99e3-208327c196d0.png" width="50" />)
 3. Select the entire code that is already in the editor and delete it
 4. Copy our code and paste it into the editor
 5. Click "Save", choose a name and then click "Add to Chart"
