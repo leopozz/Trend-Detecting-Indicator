@@ -9,6 +9,7 @@ Each team member worked on a different task, between programming, code commentar
 
 # Instructions-How to run our code:
 Either from the Website: https://www.tradingview.com/chart/ or from the Desktop app, downloadable from: https://www.tradingview.com/desktop/
+
 For first time users:
 1. Click on the "Pine Editor" tab at the bottom of your TradingView chart ![Pine Editor on TradingView homescreen](https://user-images.githubusercontent.com/119878846/208310345-b82edf52-ad16-4ced-8206-4ed9fe38f8b5.png)
 2. Select all code already in the editor and cancel it
