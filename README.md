@@ -11,7 +11,7 @@ Each team member worked on a different task, between programming, code commentar
 Either from the Website: https://www.tradingview.com/chart/ or from the Desktop app, downloadable from: https://www.tradingview.com/desktop/
 
 For first time users:
-1. Click on the "Pine Editor" tab at the bottom of your TradingView chart ![Pine Editor on TradingView homescreen](https://user-images.githubusercontent.com/119878846/208310345-b82edf52-ad16-4ced-8206-4ed9fe38f8b5.png)
+1. Click on the "Pine Editor" tab at the bottom of your TradingView chart <img src="https://user-images.githubusercontent.com/119878846/208310345-b82edf52-ad16-4ced-8206-4ed9fe38f8b5.png" width="700" />
 2. Select all code already in the editor and cancel it
 3. Copy our code and paste it into the editor
 4. Click "Save", choose a name and then click "Add to Chart"
@@ -19,11 +19,15 @@ For first time users:
 6. Make money!
 
 If you already have scripts:
-1. Click on "Open" as in the picture: ![TradingView Pine Editor Open](https://user-images.githubusercontent.com/119878846/208376735-66f19cd8-7cae-4b72-a6a3-cd18bd20aa57.png)
+1. Click on "Open" as in the picture: 
+<img src="https://user-images.githubusercontent.com/119878846/208376735-66f19cd8-7cae-4b72-a6a3-cd18bd20aa57.png" width="700" />
 2. Click on "Indicator", which can be found under "Create New" <img src="https://user-images.githubusercontent.com/119878846/208376927-19e0136c-ef78-4fd8-99e3-208327c196d0.png" width="100" />
 3. Select the entire code that is already in the editor and delete it
+
 4. Copy our code and paste it into the editor
+
 5. Click "Save", choose a name and then click "Add to Chart"
+
 6. Make Money!
 
 If you want to switch between your different scripts, you can do so by simply clicking
