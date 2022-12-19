@@ -22,6 +22,7 @@ If you already have scripts:
 1. Click on "Open" as in the picture: 
 <img src="https://user-images.githubusercontent.com/119878846/208376735-66f19cd8-7cae-4b72-a6a3-cd18bd20aa57.png" width="700" />
 2. Click on "Indicator", which can be found under "Create New" <img src="https://user-images.githubusercontent.com/119878846/208376927-19e0136c-ef78-4fd8-99e3-208327c196d0.png" width="100" />
+
 3. Select the entire code that is already in the editor and delete it
 
 4. Copy our code and paste it into the editor
@@ -32,7 +33,9 @@ If you already have scripts:
 
 If you want to switch between your different scripts, you can do so by simply clicking
 again on "Open" (as in point 1).
-You can now choose either from "Recently Used" or from clicking on "My script" <img src="https://user-images.githubusercontent.com/119878846/208377781-cd0d05e6-10c7-4118-8568-3bb8ccbeb7f6.png" width="100" />
+You can now choose either from "Recently Used" or from clicking on "My script..."
+
+<img src="https://user-images.githubusercontent.com/119878846/208377781-cd0d05e6-10c7-4118-8568-3bb8ccbeb7f6.png" width="100" />
 
 For further information on how to use the Pine Editor, please visit: https://www.tradingview.com/pine-script-docs/en/v4/Quickstart_guide.html,
 and use the User Manual
