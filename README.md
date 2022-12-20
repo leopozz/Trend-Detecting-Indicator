@@ -1,5 +1,5 @@
 # Trend-Detecting-Indicator
-Dear Reader, 
+Dear Reader,
 
 Before you can take advantage of our stock market indicator, we would like to tell you how this group of five guys organized themselves to accomplish this project. It all stemmed from our university course, "Introduction to Programming," where we were required to learn the basics of programming by developing something together with other classmates. Therefore, as finance enthusiasts, our team decided to focus on creating an extension for the TradingView site, which allows adding more indicators on all stock charts, forex, crypto, and etc.
 
