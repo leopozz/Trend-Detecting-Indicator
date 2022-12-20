@@ -8,29 +8,40 @@ First, we focused on a frequent problem of traders and tried to find possible he
 Each team member worked on a different task, between programming, code commentary, and implementation. Once the code was complete, we went through several rounds of review and debugging to ensure the indicator worked and minimized programming errors. Next, we focused on implementing the extension in TradingView. Once our extension is added to the site, you can choose any chart inherent in stocks, forex, and crypto, apply our indicators to simplify your strategy and get ready to make money. Have fun!
 
 # Instructions-How to run our code:
-First of all, copy our code. You can do so by 
+
 Either from the Website: https://www.tradingview.com/chart/ or from the Desktop app, downloadable from: https://www.tradingview.com/desktop/
 
 For first time users:
-1. Click on the "Pine Editor" tab at the bottom of your TradingView chart <img src="https://user-images.githubusercontent.com/119878846/208310345-b82edf52-ad16-4ced-8206-4ed9fe38f8b5.png" width="700" />
-2. Select all code already in the editor and cancel it
-3. Copy our code and paste it into the editor
-4. Click "Save", choose a name and then click "Add to Chart"
-5. The indicator will appear in a separate Pane under the chart
-6. Make money!
+1. First of all, you need our code. You can find it by clicking on the text in the red box:
+<img width="700" alt="Code location" src="https://user-images.githubusercontent.com/119878846/208720827-9098ddcb-795e-47be-8226-48711068be1e.png">
+2. Then, you need to copy it. Fastest and safest way to copy the code is to click on "Copy raw contents"
+<img width="700" alt="Copy the code" src="https://user-images.githubusercontent.com/119878846/208721615-3bf2898e-0e2a-4cb9-840d-1bd1fa43853d.png">
+3. Afterwards, click on the "Pine Editor" tab at the bottom of your TradingView chart <img src="https://user-images.githubusercontent.com/119878846/208310345-b82edf52-ad16-4ced-8206-4ed9fe38f8b5.png" width="700" />
+4. Select all code already in the editor and cancel it
+
+5. Paste our code into the editor
+
+6. Click "Save", choose a name and then click "Add to Chart"
+
+7. The indicator will appear in a separate Pane under the chart
+
+8. Make money!
 
 If you already have scripts:
-1. Click on "Open" as in the picture: 
+1. Copy our code as described in the first two steps for first time users
+2. Click on "Open" in TradingView as in the picture: 
 <img src="https://user-images.githubusercontent.com/119878846/208376735-66f19cd8-7cae-4b72-a6a3-cd18bd20aa57.png" width="700" />
-2. Click on "Indicator", which can be found under "Create New" <img src="https://user-images.githubusercontent.com/119878846/208376927-19e0136c-ef78-4fd8-99e3-208327c196d0.png" width="100" />
 
-3. Select the entire code that is already in the editor and delete it
+3. Click on "Indicator", which can be found under "Create New"
+<img src="https://user-images.githubusercontent.com/119878846/208376927-19e0136c-ef78-4fd8-99e3-208327c196d0.png" width="100" />
 
-4. Copy our code and paste it into the editor
+4. Select the entire code that is already in the editor and delete it
 
-5. Click "Save", choose a name and then click "Add to Chart"
+5. Copy our code and paste it into the editor
 
-6. Make Money!
+6. Click "Save", choose a name and then click "Add to Chart"
+
+7. Make Money!
 
 If you want to switch between your different scripts, you can do so by simply clicking
 again on "Open" (as in point 1).
